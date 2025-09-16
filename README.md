@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Omkar Sawase (@omkars-byte)
 
-<!--
-**omkars-byte/omkars-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **1st Year Computer Science Engineering Student** at **IIT Hyderabad**  
+💡 Passionate about **AI/ML**, **Robotics**, and building **innovative tech solutions**  
+🌱 Currently learning **Programming Lnaguages**, **Competitive Programming**, and **DSA**
+🚀 Goal: To work at top tech companies like **OpenAI, Microsoft, Netflix, Google, NVIDIA, Meta, or Apple**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects
+---
+
+## 🌱 Currently Learning
+- **Programming Languages** (C, C++)
+- **Competitive Programming** (Codeforces Div 2 Target)
+- **Some DSA** 
+
+---
+
+## 🏆 Achievements
+---
+
+## 💻 Tech Stack
+### **Languages**
+`C` | `C++` | Will update as I proceed
+
+### **Frameworks & Tools**
+Will update as I proceed
+
+### **AI/ML**
+Will update as I proceed
+
+---
+
+## 📈 GitHub Stats
+---
+
+## 🌐 Connect With Me
+- LinkedIn:   
+- GitHub: [github.com/omkars-byte](https://github.com/omkars-byte)  
+- Email: 
+---
+
+⭐ *"The best way to predict the future is to create it."* – Abraham Lincoln
