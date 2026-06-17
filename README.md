@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omkar Sawase (@omkars-byte)
 
-🎓 **1st Year Computer Science Engineering Student** at **IIT Hyderabad**  
+🎓 **2nd Year Computer Science Engineering Student** at **IIT Hyderabad**  
 💡 Passionate about **AI/ML**, **Robotics**, and building **innovative tech solutions**  
 🌱 Currently learning **Programming Lnaguages**, **Competitive Programming**, and **DSA**
 
@@ -10,7 +10,7 @@
 ---
 
 ## 🌱 Currently Learning
-- **Programming Languages** (C, C++)
+- **Programming Languages** (C++, Pyton)
 - **Competitive Programming** (Codeforces Div 2 Target)
 - **Some DSA** 
 
@@ -21,7 +21,7 @@
 
 ## 💻 Tech Stack
 ### **Languages**
-`C` | `C++` | Will update as I proceed
+`C` | `C++` | `Python` |
 
 ### **Frameworks & Tools**
 Will update as I proceed
